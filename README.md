@@ -1,5 +1,5 @@
 # Online_Grocery_Shop
-the main feature of this website are: 
+The main feature of this website are: 
 responsive header / navbar with search form / shopping cart toggle navbar menu and login form effect using vanilla javascript. 
 responsive home section using css flexbox, 
 responsive featured card section using css grid,

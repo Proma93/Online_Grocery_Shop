@@ -51,5 +51,57 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/groco-website.git
-cd groco-website
+git clone https://github.com/your-username/Online_Grocery_Shop.git
+cd Online_Grocery_Shop
+```
+
+## Project Structure
+
+```text
+groco-website/
+├── index.html            # Main HTML file
+├── css/
+│   └── style.css         # Custom stylesheet
+├── js/
+│   └── script.js         # All interactivity scripts
+├── image/                # All assets (products, categories, icons, etc.)
+└── README.md             # Project documentation
+
+```
+
+## Key Components
+
+| 🧱 **Component**   | 📝 **Description**                                                               |
+|--------------------|-----------------------------------------------------------------------------------|
+| **Navbar**         | Collapsible navigation menu with links to all major sections                      |
+| **Search Form**    | Search bar that toggles visibility when the search icon is clicked                |
+| **Shopping Cart**  | Modal-style cart showing items, delete icons, and total price                     |
+| **Login Form**     | Login form that appears as a popup on clicking the user icon                      |
+| **Product Slider** | Swiper.js-powered carousel for browsing featured products                         |
+| **Review Slider**  | Customer testimonial carousel using Swiper.js                                     |
+| **Blog Section**   | List of blog cards with image, meta info (author, date), and preview text         |
+| **Footer**         | Section containing contact info, useful links, social icons, and newsletter input |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

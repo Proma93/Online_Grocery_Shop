@@ -19,7 +19,7 @@ Groco is a fully responsive grocery website built using HTML, CSS, and JavaScrip
 
 ---
 
-## ✅ Features
+## Features
 
 - 💻 **Fully Responsive Design** for desktop, tablet, and mobile
 - 🛒 **Interactive Shopping Cart** with item preview and total price
@@ -32,7 +32,7 @@ Groco is a fully responsive grocery website built using HTML, CSS, and JavaScrip
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 This project uses the following core technologies:
 
@@ -44,7 +44,7 @@ This project uses the following core technologies:
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 Follow these steps to run the project locally:
 
